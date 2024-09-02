@@ -36,12 +36,12 @@ The dataset used in this project is derived from the Titanic passenger list. It 
    - Tuned hyperparameters to improve model accuracy and reliability.
 
 4. **Model Evaluation**:
-   - Assessed the models using metrics such as accuracy, precision, recall, and the F1 score.
+   - Assessed the models using metrics such as accuracy.
    - Selected the best-performing model for predicting Titanic survival.
 
 ## Results
 
-The final model achieved an impressive accuracy of **X%**, demonstrating the significant impact of factors like passenger class, gender, and age on survival chances.
+The final model achieved an impressive accuracy of **81%**, demonstrating the significant impact of factors like passenger class, gender, and age on survival chances.
 
 ## Conclusion
 
