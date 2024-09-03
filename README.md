@@ -46,3 +46,7 @@ The final model achieved an impressive accuracy of **81%**, demonstrating the si
 ## Conclusion
 
 This project highlights the power of machine learning in uncovering patterns and making predictions based on historical data. The insights from this analysis could provide valuable lessons in risk management and emergency preparedness.
+
+## LICENSE
+This project is licensed under the MIT License - see the [LICENSE](License)file for details.
+
