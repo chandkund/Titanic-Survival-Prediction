@@ -6,7 +6,7 @@ Welcome to the **Titanic Survival Prediction** project! 🌊 This project aims t
 
 ## Dataset Description 
 
-The dataset used in this project is derived from the Titanic passenger list. It includes the following key features:
+The dataset used in this project is derived from the Titanic passenger list. It includes the following key features: 
  
 - **PassengerId**: A unique identifier for each passenger. 
 - **Survived**: The target variable, where `1` indicates the passenger survived, and `0` indicates they did not.
