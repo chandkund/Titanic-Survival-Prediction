@@ -4,7 +4,7 @@
  
 Welcome to the **Titanic Survival Prediction** project! 🌊 This project aims to predict the likelihood of survival of passengers on the Titanic using various machine learning models. By analyzing different features such as passenger class, gender, age, and more, we seek to understand the factors that influenced survival rates during this historic disaster.
 
-## Dataset Description
+## Dataset Description 
 
 The dataset used in this project is derived from the Titanic passenger list. It includes the following key features:
  
